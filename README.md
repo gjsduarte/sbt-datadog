@@ -1,6 +1,6 @@
 #### This project is a fork of [Colisweb/sbt-datadog](https://github.com/Colisweb/sbt-datadog) with support for *sbt 0.13*
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.gjsduarte/sbt-datadog_2.11/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.gjsduarte/sbt-datadog_2.11)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.gjsduarte/sbt-datadog/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.gjsduarte/sbt-datadog)
 
 # sbt-datadog
 
